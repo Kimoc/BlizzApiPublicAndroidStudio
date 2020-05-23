@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private PagerAdapter miFragmentPageAdapter;
     private ViewPager mviewPager;
 
+
     PagerAdapter pagerAdapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -10,6 +10,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.aarongutierrez.blizzardapi.BuildConfig;
 import com.aarongutierrez.blizzardapi.R;
 import com.aarongutierrez.blizzardapi.constants.Constants;
 import com.aarongutierrez.blizzardapi.interfaces.IOAuthTokenRequest;
