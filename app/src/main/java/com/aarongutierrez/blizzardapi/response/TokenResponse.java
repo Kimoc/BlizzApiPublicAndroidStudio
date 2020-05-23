@@ -13,8 +13,6 @@ public class TokenResponse {
     @SerializedName("access_token")
     @Expose
     private String accessToken;
-
-
     @SerializedName("scope")
     @Expose
     private String scope;
