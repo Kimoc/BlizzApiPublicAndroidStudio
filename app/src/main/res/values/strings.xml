@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Blizzard Api</string>
+    <string name="tab_text_1">Token</string>
+    <string name="tab_text_2">User Profile</string>
+    <string name="tab_text_3">Acts</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="obtain_token">Obtain Token</string>
+    <string name="token_validation">Token Validation</string>
+    <string name="hint_token_request_response">Una vez hecho el request obtienes un token mas la info</string>
+    <string name="hint_validation_request">Primero tienes que obtener un token para hacer una validacion . Mostrara si el token sigue siendo valido</string>
+
+</resources>
